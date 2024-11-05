@@ -1,0 +1,82 @@
+{
+    "kategori": [
+        {
+            "nama": "AKTA KELAHIRAN",
+            "folder": "AKTA KELAHIRAN"
+        },
+        {
+            "nama": "DRH",
+            "folder": "DRH"
+        },
+        {
+            "nama": "SKCPNS",
+            "folder": "SKCPNS"
+        },
+        {
+            "nama": "SKCK",
+            "folder": "SKCK"
+        },
+        {
+            "nama": "SKPNS",
+            "folder": "SKPNS"
+        },
+        {
+            "nama": "SPMT",
+            "folder": "SPMT"
+        },
+        {
+            "nama": "STTB",
+            "folder": "STTB"
+        },
+        {
+            "nama": "FORMULIR PENETAPAN NIP",
+            "folder": "FORMULIR PENETAPAN NIP"
+        },
+        {
+            "nama": "IJAZAH",
+            "folder": "IJAZAH"
+        },
+        {
+            "nama": "KARPEG",
+            "folder": "KARPEG"
+        },
+        {
+            "nama": "KK",
+            "folder": "KK"
+        },
+        {
+            "nama": "KTP",
+            "folder": "KTP"
+        },
+        {
+            "nama": "NPKP",
+            "folder": "NPKP"
+        },
+        {
+            "nama": "PAK",
+            "folder": "PAK"
+        },
+        {
+            "nama": "PENETAPAN NIP",
+            "folder": "PENETAPAN NIP"
+        },
+        {
+            "nama": "SK Pemindahan Jabatan",
+            "folder": "SK Pemindahan Jabatan"
+        },
+        {
+            "nama": "SRP",
+            "folder": "SRP"
+        },
+        {
+            "nama": "TRANSKRIP",
+            "folder": "TRANSKRIP"
+        },
+        {
+            "nama": "USUL PENETAPAN NIP",
+            "folder": "USUL PENETAPAN NIP"
+        }
+
+
+    ]
+}
